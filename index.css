@@ -1,0 +1,38 @@
+.conteudo{
+    margin-left: 230px;
+    max-width: 90vw;
+    margin-top: 1px;
+    text-align: center;
+    background-color: purple;
+}
+
+.card{
+    width: 20vw;
+    margin: 90px;
+    margin-top: 1vh;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
+
+.cabecalho{
+    background-color: red;
+    width: 70%;
+    margin-left: 15vw;
+}
+
+.card1{
+    width: 15vw;
+    margin: 6vw;
+    margin-top: 1vh;
+    height: 100px;
+    background-color: red;
+    float: left;
+}
+.conteudo1{
+    margin-left: 120px;
+    max-width: 90vw;
+    margin-top: 1px;
+    text-align: center;
+    background-color: purple;
+}
